@@ -1,4 +1,3 @@
-# My name is Shin Tzehan
-### I can speak native Chinese, fluent English and Japanese, learning French and German
-### Hold a dual degree in EE and CS, previous is concerntrate in electromagnetic measurement
-### Engineer and thinker, with Aspergers syndrome and at the 23rd year of life
+# Hi, I'm Austin Shin!
+Enigneer in GNSS / RTK work field, with EE and CS education background:
+1) Electromagnetic measurement, 2) Trilingual of Chinese, English and Japanese, 3) Presnetly learning French and German for furture purpose.
